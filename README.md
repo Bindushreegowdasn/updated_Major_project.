@@ -94,6 +94,6 @@ Additionally, the project integrates an **AI chatbot powered by Ollama**, enabli
 
 ---
 
-## 👨‍🏫 Project Coordinator
+## 👨‍🏫 Under the guidance
 **Dr. Agughasi Victor Ikechukwu**
 
